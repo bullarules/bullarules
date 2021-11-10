@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bullarules
 - 👀 I’m interested in Database Analytics
-- 🌱 I’m currently a PostGres SQL Dev.
+- 🌱 I’m currently an SQL Dev.
 - 💞️ I’m looking to collaborate on any Database Analysis Project.
 - 📫 How to reach me francisogochukwu@gmail.com
 
