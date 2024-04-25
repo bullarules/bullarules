@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @bullarules
 - 👀 I’m interested in Data Science and Analytics
-- 🌱 I’m currently a Data Analyst
-- 💞️ I’m looking to collaborate on any Data Analysis Project.
-- 📫 How to reach me francisogochukwu@gmail.com
+- 🌱 I’m currently a Data Analyst and starting off BackEnd Development
+- 💞️ I’m looking to collaborate on BackEnd NodeJs projects.
+- 📫 How to reach me bullarules@icloud.com
 
 <!---
 bullarules/bullarules is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
