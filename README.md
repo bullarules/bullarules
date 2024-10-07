@@ -1,6 +1,6 @@
 - 👋 Hi, Welcome to my Page
 - 👀 I’m interested in Data Science and Analytics
-- 🌱 I’m currently a Data Analyst and starting off BackEnd Development
+- 🌱 I’m currently starting off BackEnd Development
 - 💞️ I’m looking to collaborate on BackEnd NodeJs projects.
 - 📫 How to reach me bullarules@icloud.com
 
